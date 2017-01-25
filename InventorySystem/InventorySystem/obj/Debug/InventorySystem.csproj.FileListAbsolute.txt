@@ -1,0 +1,10 @@
+c:\users\nicole\documents\visual studio 2013\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+c:\users\nicole\documents\visual studio 2013\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+c:\users\nicole\documents\visual studio 2013\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+c:\users\nicole\documents\visual studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojResolveAssemblyReference.cache
+c:\users\nicole\documents\visual studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form1.resources
+c:\users\nicole\documents\visual studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form2.resources
+c:\users\nicole\documents\visual studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+c:\users\nicole\documents\visual studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.Cache
+c:\users\nicole\documents\visual studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+c:\users\nicole\documents\visual studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
